@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentalsCSharp", "Funda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusNomeEsercizio", "BonusNomeEsercizio\BonusNomeEsercizio.csproj", "{8FFD83D4-6D6B-4D06-91C7-7DA2305C9F49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMusicStats", "ClassMusicStats\ClassMusicStats.csproj", "{EF6EF65C-C7BF-405A-8292-DF0AA63C357A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8FFD83D4-6D6B-4D06-91C7-7DA2305C9F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FFD83D4-6D6B-4D06-91C7-7DA2305C9F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FFD83D4-6D6B-4D06-91C7-7DA2305C9F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6EF65C-C7BF-405A-8292-DF0AA63C357A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6EF65C-C7BF-405A-8292-DF0AA63C357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6EF65C-C7BF-405A-8292-DF0AA63C357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6EF65C-C7BF-405A-8292-DF0AA63C357A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
