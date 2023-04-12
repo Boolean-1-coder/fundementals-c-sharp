@@ -7,6 +7,7 @@
 
 string[] iscritti = { "Luca", "Giovanni", "Paolo" };
 
+
 // Ciclo for per stampare gli elementi a video
 
 // Questo su C non è più consetito se si vuole stampare al volo un array.
